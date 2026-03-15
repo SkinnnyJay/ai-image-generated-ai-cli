@@ -1,0 +1,17 @@
+@.cursorrules @CLAUDE.md @CODEX.md @AGENTS.md
+
+## Project
+
+This repo is **ai-image-generated-ai-cli** (simpill): CLI and SDK for AI image generation. Use **README.md** for structure, scripts, and how to use the CLI.
+
+## Engineering Standards (TypeScript)
+
+- KISS & DRY; no magic literals; type-safe (strict TS, no `any` or unsafe casts).
+- Validation at boundaries with Zod (requests, meta, config).
+- In library code: avoid `process.env` and `console.*` in published code; use config injection or passed options. CLI and tests may use them.
+- Comments only when they add signal; naming: PascalCase types, camelCase functions/variables, SCREAMING_SNAKE_CASE constants.
+
+## Rules
+
+- Prefer small, verifiable changes. Keep the project buildable.
+- Follow the fixing workflow: discover failures → task list → fix one item at a time → full confirmation.
