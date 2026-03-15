@@ -1,0 +1,26 @@
+[
+  {
+    "id": "front-default",
+    "name": "Front view, default style",
+    "description": "Front-facing character in default style",
+    "assetType": "sprite",
+    "style": "soft-painterly",
+    "angle": "front",
+    "width": 512,
+    "height": 512,
+    "promptTemplate": "Front-facing character, {{subject}}, soft painterly style, transparent background, high quality illustration.",
+    "tags": ["sprite", "front"]
+  },
+  {
+    "id": "back-default",
+    "name": "Back view, default style",
+    "description": "Back-facing character in default style",
+    "assetType": "sprite",
+    "style": "soft-painterly",
+    "angle": "back",
+    "width": 512,
+    "height": 512,
+    "promptTemplate": "Back view character, {{subject}}, soft painterly style, transparent background, high quality illustration.",
+    "tags": ["sprite", "back"]
+  }
+]
