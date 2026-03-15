@@ -1,0 +1,148 @@
+[
+  {
+    "id": "isometric-sprite",
+    "label": "Isometric game sprite",
+    "template": "Isometric pixel art sprite, 16-bit style, transparent background",
+    "tags": ["game", "sprite", "isometric"],
+    "modelHint": "gemini"
+  },
+  {
+    "id": "portrait",
+    "label": "Portrait",
+    "template": "Professional portrait photograph, soft lighting, neutral background",
+    "tags": ["portrait", "photo"]
+  },
+  {
+    "id": "landscape",
+    "label": "Landscape",
+    "template": "Epic landscape, golden hour, detailed environment",
+    "tags": ["landscape", "environment"],
+    "modelHint": "openai"
+  },
+  {
+    "id": "stealth-rogue",
+    "label": "Shadow rogue",
+    "template": "Game character concept, stealth rogue in hooded cloak, slim silhouette, deep purple and teal palette, sharp rim light, clean linework, moody atmosphere, full body, neutral background",
+    "tags": ["character", "rogue", "stealth", "fantasy", "palette"]
+  },
+  {
+    "id": "neon-samurai",
+    "label": "Neon samurai",
+    "template": "Game character, cyber samurai with glowing katana, neon magenta and cyan palette, high-contrast cel shading, bold contour lines, full body, neutral background",
+    "tags": ["character", "cyberpunk", "samurai", "neon", "cel-shaded"]
+  },
+  {
+    "id": "desert-ranger",
+    "label": "Desert ranger",
+    "template": "Game character, post-apocalyptic desert ranger, dusty earth-tone palette, weathered materials, inked linework with crosshatching, full body, neutral background",
+    "tags": ["character", "post-apocalypse", "ranger", "ink", "palette"]
+  },
+  {
+    "id": "forest-druid",
+    "label": "Forest druid",
+    "template": "Game character, forest druid with staff and mossy cloak, soft greens and warm amber palette, painterly brush strokes, gentle lighting, full body, neutral background",
+    "tags": ["character", "fantasy", "druid", "painterly", "palette"]
+  },
+  {
+    "id": "steam-mech-pilot",
+    "label": "Steam mech pilot",
+    "template": "Game character, steampunk mech pilot with goggles and leather jacket, brass and copper palette, engraved line details, warm volumetric light, full body, neutral background",
+    "tags": ["character", "steampunk", "pilot", "metal", "palette"]
+  },
+  {
+    "id": "ice-queen",
+    "label": "Ice queen",
+    "template": "Game character, ice queen with crystalline crown, cool blue and silver palette, sharp faceted shapes, clean minimal lines, full body, neutral background",
+    "tags": ["character", "fantasy", "ice", "minimal", "palette"]
+  },
+  {
+    "id": "jungle-berserker",
+    "label": "Jungle berserker",
+    "template": "Game character, jungle berserker with tribal markings, vibrant emerald and ochre palette, dynamic brush strokes, rugged textures, full body, neutral background",
+    "tags": ["character", "tribal", "berserker", "painterly", "palette"]
+  },
+  {
+    "id": "clockwork-mage",
+    "label": "Clockwork mage",
+    "template": "Game character, clockwork mage with floating gears, gold and midnight blue palette, ornate linework, soft glow effects, full body, neutral background",
+    "tags": ["character", "fantasy", "mage", "ornate", "palette"]
+  },
+  {
+    "id": "retro-space-marine",
+    "label": "Retro space marine",
+    "template": "Game character, retro space marine in chunky armor, limited 4-color palette, dithered shading, pixel-art style, full body, transparent background",
+    "tags": ["character", "sci-fi", "pixel-art", "palette", "retro"]
+  },
+  {
+    "id": "noir-detective",
+    "label": "Noir detective",
+    "template": "Game character, noir detective with trench coat and fedora, black, white, and sepia palette, film-noir lighting, bold ink lines, full body, neutral background",
+    "tags": ["character", "noir", "detective", "ink", "palette"]
+  },
+  {
+    "id": "arcade-gladiator",
+    "label": "Arcade gladiator",
+    "template": "Game character, arcade-style gladiator with oversized armor, bright primary palette, clean vector shapes, thick outline, full body, neutral background",
+    "tags": ["character", "arcade", "gladiator", "vector", "palette"]
+  },
+  {
+    "id": "abyssal-warlock",
+    "label": "Abyssal warlock",
+    "template": "Game character, abyssal warlock with void aura, dark teal and black palette, swirling smoke shapes, thin elegant lines, full body, neutral background",
+    "tags": ["character", "warlock", "dark", "elegant", "palette"]
+  },
+  {
+    "id": "meadow-healer",
+    "label": "Meadow healer",
+    "template": "Game character, meadow healer with herb satchel, pastel palette, soft linework, gentle watercolor texture, full body, neutral background",
+    "tags": ["character", "healer", "pastel", "watercolor", "palette"]
+  },
+  {
+    "id": "lava-knight",
+    "label": "Lava knight",
+    "template": "Game character, lava knight with molten armor, fiery orange and charcoal palette, sharp bevel highlights, high-contrast lighting, full body, neutral background",
+    "tags": ["character", "knight", "lava", "contrast", "palette"]
+  },
+  {
+    "id": "rainforest-scout",
+    "label": "Rainforest scout",
+    "template": "Game character, rainforest scout with lightweight gear, lush green palette with bright accents, thin technical lines, clean silhouette, full body, neutral background",
+    "tags": ["character", "scout", "jungle", "technical", "palette"]
+  },
+  {
+    "id": "crystal-archer",
+    "label": "Crystal archer",
+    "template": "Game character, crystal archer with translucent bow, cool pastel palette, crisp edge highlights, minimal linework, full body, neutral background",
+    "tags": ["character", "archer", "crystal", "minimal", "palette"]
+  },
+  {
+    "id": "storm-brawler",
+    "label": "Storm brawler",
+    "template": "Game character, storm brawler with electric gauntlets, blue and yellow palette, energetic brush strokes, comic-style ink lines, full body, neutral background",
+    "tags": ["character", "brawler", "electric", "comic", "palette"]
+  },
+  {
+    "id": "sun-warden",
+    "label": "Sun warden",
+    "template": "Game character, sun warden with radiant shield, warm gold and white palette, clean heroic shapes, smooth gradients, full body, neutral background",
+    "tags": ["character", "paladin", "sun", "heroic", "palette"]
+  },
+  {
+    "id": "plasma-engineer",
+    "label": "Plasma engineer",
+    "template": "Game character, sci-fi plasma engineer with tool harness, cool gray with neon accent palette, precise linework, technical schematic feel, full body, neutral background",
+    "tags": ["character", "sci-fi", "engineer", "technical", "palette"]
+  },
+  {
+    "id": "marsh-witch",
+    "label": "Marsh witch",
+    "template": "Game character, marsh witch with lantern and herbs, muted olive palette, textured brush strokes, mysterious mood, full body, neutral background",
+    "tags": ["character", "witch", "mystic", "painterly", "palette"]
+  },
+  {
+    "id": "rift-assassin",
+    "label": "Rift assassin",
+    "template": "Game character, rift assassin with glitch effects, violet and cyan palette, sharp angular shapes, clean graphic lines, full body, neutral background",
+    "tags": ["character", "assassin", "sci-fi", "glitch", "palette"]
+  }
+]

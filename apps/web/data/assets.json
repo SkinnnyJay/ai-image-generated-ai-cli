@@ -1,0 +1,26 @@
+[
+  {
+    "id": "asset-lava-floor",
+    "name": "Lava floor tile",
+    "type": "texture",
+    "tags": ["lava", "floor", "tile"]
+  },
+  {
+    "id": "asset-pipe-stack",
+    "name": "Pipe stack",
+    "type": "model",
+    "tags": ["industrial", "pipe"]
+  },
+  {
+    "id": "asset-stone-tiles",
+    "name": "Stone tiles",
+    "type": "texture",
+    "tags": ["stone", "floor", "tile"]
+  },
+  {
+    "id": "asset-broken-statue",
+    "name": "Broken statue",
+    "type": "model",
+    "tags": ["ruins", "statue"]
+  }
+]

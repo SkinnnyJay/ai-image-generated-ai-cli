@@ -1,0 +1,16 @@
+[
+  {
+    "id": "level-01",
+    "name": "Foundry",
+    "summary": "Industrial interior with molten metal and pipes.",
+    "tags": ["industrial", "interior"],
+    "assetIds": ["asset-lava-floor", "asset-pipe-stack"]
+  },
+  {
+    "id": "level-02",
+    "name": "Ruined Plaza",
+    "summary": "Outdoor plaza with broken statues and cracked stone.",
+    "tags": ["outdoor", "ruins"],
+    "assetIds": ["asset-stone-tiles", "asset-broken-statue"]
+  }
+]
